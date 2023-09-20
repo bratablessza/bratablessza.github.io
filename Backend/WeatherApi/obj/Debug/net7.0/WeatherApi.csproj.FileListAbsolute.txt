@@ -31,3 +31,13 @@ D:\Freelance\pagesKU\Backend\WeatherApi\obj\Debug\net7.0\refint\WeatherApi.dll
 D:\Freelance\pagesKU\Backend\WeatherApi\obj\Debug\net7.0\WeatherApi.pdb
 D:\Freelance\pagesKU\Backend\WeatherApi\obj\Debug\net7.0\WeatherApi.genruntimeconfig.cache
 D:\Freelance\pagesKU\Backend\WeatherApi\obj\Debug\net7.0\ref\WeatherApi.dll
+D:\Freelance\pagesKU\Backend\WeatherApi\bin\Debug\net7.0\docs\web.config
+D:\Freelance\pagesKU\Backend\WeatherApi\bin\Debug\net7.0\published\web.config
+D:\Freelance\pagesKU\Backend\WeatherApi\bin\Debug\net7.0\docs\appsettings.Development.json
+D:\Freelance\pagesKU\Backend\WeatherApi\bin\Debug\net7.0\docs\appsettings.json
+D:\Freelance\pagesKU\Backend\WeatherApi\bin\Debug\net7.0\docs\WeatherApi.deps.json
+D:\Freelance\pagesKU\Backend\WeatherApi\bin\Debug\net7.0\docs\WeatherApi.runtimeconfig.json
+D:\Freelance\pagesKU\Backend\WeatherApi\bin\Debug\net7.0\published\appsettings.Development.json
+D:\Freelance\pagesKU\Backend\WeatherApi\bin\Debug\net7.0\published\appsettings.json
+D:\Freelance\pagesKU\Backend\WeatherApi\bin\Debug\net7.0\published\WeatherApi.deps.json
+D:\Freelance\pagesKU\Backend\WeatherApi\bin\Debug\net7.0\published\WeatherApi.runtimeconfig.json
