@@ -18,7 +18,7 @@ builder.Services.AddCors(options =>
 });
 
 var app = builder.Build();
-
+app.UseCors("AllowGitHubPages");
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

@@ -1,6 +1,16 @@
 D:\Freelance\pagesKU\Backend\WeatherApi\published\WeatherApi.exe
+D:\Freelance\pagesKU\Backend\WeatherApi\published\docs\web.config
+D:\Freelance\pagesKU\Backend\WeatherApi\published\published\web.config
 D:\Freelance\pagesKU\Backend\WeatherApi\published\appsettings.Development.json
 D:\Freelance\pagesKU\Backend\WeatherApi\published\appsettings.json
+D:\Freelance\pagesKU\Backend\WeatherApi\published\docs\appsettings.Development.json
+D:\Freelance\pagesKU\Backend\WeatherApi\published\docs\appsettings.json
+D:\Freelance\pagesKU\Backend\WeatherApi\published\docs\WeatherApi.deps.json
+D:\Freelance\pagesKU\Backend\WeatherApi\published\docs\WeatherApi.runtimeconfig.json
+D:\Freelance\pagesKU\Backend\WeatherApi\published\published\appsettings.Development.json
+D:\Freelance\pagesKU\Backend\WeatherApi\published\published\appsettings.json
+D:\Freelance\pagesKU\Backend\WeatherApi\published\published\WeatherApi.deps.json
+D:\Freelance\pagesKU\Backend\WeatherApi\published\published\WeatherApi.runtimeconfig.json
 D:\Freelance\pagesKU\Backend\WeatherApi\published\WeatherApi.dll
 D:\Freelance\pagesKU\Backend\WeatherApi\published\WeatherApi.deps.json
 D:\Freelance\pagesKU\Backend\WeatherApi\published\WeatherApi.runtimeconfig.json
