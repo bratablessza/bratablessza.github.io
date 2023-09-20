@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fQaH2GVkdVIs6BQhvzDzOHO+EnBe2b9XYeNSI2RyqQk=",
+  "Source": "project-memu_api_server",
+  "BasePath": "_content/project-memu_api_server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

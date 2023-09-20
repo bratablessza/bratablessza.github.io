@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\project-memu_api_server.props" />
+</Project>
